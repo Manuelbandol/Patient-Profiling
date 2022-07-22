@@ -39,7 +39,13 @@ This application entitled PATIENT PROFILING which can store the data or informat
 ![290564270_422247133278140_493623600266982338_n](https://user-images.githubusercontent.com/106504421/180371431-6b8f7fba-ad21-455a-8539-9aab65ace452.png)
 
 ### 6. Display Patient List
-![289927605_405084194930273_6786248459936295768_n](https://user-images.githubusercontent.com/106504421/180371626-7ec4496d-1b3d-495e-9a58-f280899fbf06.png)
+![image-removebg-preview (6)](https://user-images.githubusercontent.com/106504421/180421162-eb207819-7fdd-4d87-8c6b-08f837b64810.png)
+
+### 7. View/Read Patient History
+![1](https://user-images.githubusercontent.com/106504421/180421325-ae61c76c-c537-48f8-912d-387e5c845e20.png)
+
+
+
 
 # Demo video
 
